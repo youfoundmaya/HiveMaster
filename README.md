@@ -46,7 +46,7 @@ This project demonstrates proficiency in:
 ## 📧 Contact
 
 **Mrunmayee Ovhal**  
-📧 mayanotfound@proton.me
+📧 mayanotfound@proton.me  
 💼 [LinkedIn](https://www.linkedin.com/in/mrunmayeeovhal/)  
 🐙 [GitHub](https://github.com/youfoundmaya)
 
